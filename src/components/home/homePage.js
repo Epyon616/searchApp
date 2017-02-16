@@ -6,7 +6,7 @@ class HomePage extends Component {
     return (
       <div className="jumbotron">
         <h1>LOUD NOISES!!!</h1>
-        <p>React, Redux and React Router in ES6 for ultra-responsive web apps.</p>
+        <p>I have no idea what we're shouting about...</p>
       </div>
     );
   }
