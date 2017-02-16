@@ -39,6 +39,42 @@ export const userProps = {
           lastName: 'Wormtonque',
           email: 'grima@theshire.com',
         },
+        {
+          id: 7,
+          firstName: 'Filibert',
+          lastName: 'Bolger',
+          email: 'filibert@theshire.com',
+        },
+        {
+          id: 8,
+          firstName: 'Old',
+          lastName: 'Noakes',
+          email: 'old@theshire.com',
+        },
+        {
+          id: 9,
+          firstName: 'Hamfast',
+          lastName: 'Gamgee',
+          email: 'hamfast@theshire.com',
+        },
+        {
+          id: 10,
+          firstName: 'Farmer',
+          lastName: 'Maggot',
+          email: 'farmer@theshire.com',
+        },
+        {
+          id: 11,
+          firstName: 'Ted',
+          lastName: 'Sandyman',
+          email: 'ted@theshire.com',
+        },
+        {
+          id: 12,
+          firstName: 'Odo',
+          lastName: 'Proudfoot',
+          email: 'grima@theshire.com',
+        },
       ]
     }
   }
