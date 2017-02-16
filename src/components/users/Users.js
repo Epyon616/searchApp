@@ -21,7 +21,7 @@ export class UsersPage extends Component {
 
   onInputChange() {
     const { results } = this.state;
-    let newResults = results.filter(
+    let newResults = this.props.users.filter(
       (user) => user.firstName.toLowerCase().includes(this.refs.search.value.toLowerCase())
     );
 
