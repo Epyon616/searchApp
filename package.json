@@ -10,6 +10,7 @@
   "author": "Lee Richmond",
   "license": "ISC",
   "dependencies": {
+    "@babel/cli": "^7.7.0",
     "babel": "^6.23.0",
     "babel-core": "^6.23.1",
     "babel-loader": "^6.3.1",
@@ -19,8 +20,9 @@
     "babel-preset-react-hmre": "^1.1.1",
     "babel-register": "^6.23.0",
     "bootstrap": "^3.3.7",
+    "braces": "^3.0.2",
     "express": "^4.14.1",
-    "open": "0.0.5",
+    "open": "^7.0.0",
     "path": "^0.12.7",
     "react": "^15.4.2",
     "react-bootstrap": "^0.30.7",
@@ -34,8 +36,7 @@
     "webpack-hot-middleware": "^2.16.1"
   },
   "devDependencies": {
-    "babel-cli": "^6.23.0",
-    "mocha": "^3.2.0",
+    "mocha": "^6.2.2",
     "npm-run-all": "^4.0.1"
   }
 }
